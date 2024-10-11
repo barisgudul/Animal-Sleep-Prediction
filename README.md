@@ -11,9 +11,7 @@ This project aims to predict the total sleep time of various animals using a mac
 - [Outlier Analysis](#outlier-analysis)
 - [Results](#results)
 - [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 The goal of this project is to use machine learning to predict the **total sleep time** (`sleep_total`) of various animal species based on their characteristics. It uses features like body weight, brain weight, sleep cycle, and dietary categories (carnivores, herbivores, etc.).
