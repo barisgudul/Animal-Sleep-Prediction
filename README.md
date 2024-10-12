@@ -33,7 +33,7 @@ Missing values in the dataset are handled by filling them with mean values.
 - Features are scaled using `StandardScaler` for better model performance.
 
 ## Model
-A **Random Forest Classifier** is used for this project with the following parameters:
+A **Random Forest Regressor** is used for this project with the following parameters:
 - `n_estimators`: 200
 - `max_depth`: 10
 - `random_state`: 42
