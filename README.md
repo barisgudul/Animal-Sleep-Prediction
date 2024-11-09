@@ -55,5 +55,5 @@ The predictions for each animal are compared against the actual sleep totals. Th
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/animal-sleep-prediction.git
+   git clone https://github.com/barisgudul/animal-sleep-prediction.git
    cd animal-sleep-prediction
